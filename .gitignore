@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# when npm start it created everytime no need to share the same file 
+/src/styles/tailwindOutput.css
